@@ -12,6 +12,11 @@ These are the current projects that I own and that I'm actively maintaining.
 * [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
 * [swift-proposal-analyzer](https://github.com/jessesquires/swift-proposal-analyzer)
 
+Non-code projects:
+
+* [Swift Weekly Brief](https://swiftweekly.github.io) newsletter
+* [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped) podcast
+
 ## Contributor
 
 I'm an active core contributor on these projects.
