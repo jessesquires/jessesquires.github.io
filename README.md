@@ -28,6 +28,7 @@ I'm an active core contributor on these projects.
 These are former projects that I no longer maintain or support.
 
 - [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)
+- [JSQWebViewController](https://github.com/jessesquires/JSQWebViewController)
 - [JSQNotificationObserverKit](https://github.com/jessesquires/JSQNotificationObserverKit)
 - [GrandSugarDispatch](https://github.com/jessesquires/GrandSugarDispatch)
 - [JSQActivityKit](https://github.com/jessesquires/JSQActivityKit)
