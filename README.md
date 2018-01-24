@@ -17,9 +17,6 @@ These are the current projects that I own and that I'm actively maintaining.
 ### Current:
 
 * [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped) podcast
-
-### Former:
-
 * [Swift Weekly Brief](https://swiftweekly.github.io) newsletter
 
 ## Contributor
@@ -27,6 +24,7 @@ These are the current projects that I own and that I'm actively maintaining.
 I'm an active core contributor on these projects.
 
 - [IGListKit](https://github.com/Instagram/IGListKit)
+- [ReactiveLists](https://github.com/plangrid/ReactiveLists)
 
 ## Deprecated
 
