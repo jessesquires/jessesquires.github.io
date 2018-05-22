@@ -10,12 +10,12 @@ These are the current projects that I own and that I'm actively maintaining.
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit)
 * [PresenterKit](https://github.com/jessesquires/PresenterKit)
 * [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
-* [swift-proposal-analyzer](https://github.com/jessesquires/swift-proposal-analyzer)
 
 ## Other
 
 * [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped) podcast
 * [Swift Weekly Brief](https://swiftweekly.github.io) newsletter
+* [swift-proposal-analyzer](https://github.com/jessesquires/swift-proposal-analyzer)
 
 ## Contributor
 
