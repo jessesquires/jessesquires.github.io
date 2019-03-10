@@ -1,10 +1,10 @@
-## About
+# About
 
 See [GitHub](https://github.com/jessesquires) for an overview of my open source work. 
 
 You can [learn more about me here](https://www.jessesquires.com).
 
-## Notable projects
+# Notable projects
 
 These are the projects that I am probably most well-known for:
 
