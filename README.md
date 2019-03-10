@@ -1,35 +1,19 @@
-# Projects
+## About
 
-A brief overview of my open source work. [Learn more about me](https://www.jessesquires.com).
+See [GitHub](https://github.com/jessesquires) for an overview of my open source work. 
 
-## Current
+You can [learn more about me here](https://www.jessesquires.com).
 
-These are the current projects that I own and that I'm actively maintaining. 
+## Notable projects
 
-* [JSQDataSourcesKit](https://github.com/jessesquires/JSQDataSourcesKit)
-* [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit)
-* [PresenterKit](https://github.com/jessesquires/PresenterKit)
-* [JSQSystemSoundPlayer](https://github.com/jessesquires/JSQSystemSoundPlayer)
+These are the projects that I am probably most well-known for:
 
-## Other
+* [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)
+
+* [Swift Weekly Brief](https://swiftweekly.github.io) newsletter
 
 * [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped) podcast
-* [Swift Weekly Brief](https://swiftweekly.github.io) newsletter
-* [swift-proposal-analyzer](https://github.com/jessesquires/swift-proposal-analyzer)
 
-## Contributor
+* [IGListKit](https://github.com/Instagram/IGListKit)
 
-I'm an active core contributor on these projects.
-
-- [IGListKit](https://github.com/Instagram/IGListKit)
-- [ReactiveLists](https://github.com/plangrid/ReactiveLists)
-
-## Deprecated
-
-These are former projects that I no longer maintain or support.
-
-- [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)
-- [JSQWebViewController](https://github.com/jessesquires/JSQWebViewController)
-- [JSQNotificationObserverKit](https://github.com/jessesquires/JSQNotificationObserverKit)
-- [GrandSugarDispatch](https://github.com/jessesquires/GrandSugarDispatch)
-- [JSQActivityKit](https://github.com/jessesquires/JSQActivityKit)
+*Last updated: 9 Mar 2019*
