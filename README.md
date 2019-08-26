@@ -1,6 +1,6 @@
 # About
 
-See [GitHub](https://github.com/jessesquires) for an overview of my open source work. 
+See my [GitHub Profile](https://github.com/jessesquires) and [Hexed Bits](https://github.com/hexedbits) for an overview of my open source work. 
 
 You can [learn more about me here](https://www.jessesquires.com).
 
@@ -16,4 +16,4 @@ These are the projects that I am probably most well-known for:
 
 * [IGListKit](https://github.com/Instagram/IGListKit)
 
-*Last updated: 9 Mar 2019*
+*Last updated: 26 Aug 2019*
