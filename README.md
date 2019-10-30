@@ -4,6 +4,8 @@ See my [GitHub Profile](https://github.com/jessesquires) and [Hexed Bits](https:
 
 You can [learn more about me here](https://www.jessesquires.com).
 
+If you appreciate my work, [consider becoming a sponsor](https://www.jessesquires.com/sponsor/).
+
 # Notable projects
 
 These are the projects that I am probably most well-known for:
