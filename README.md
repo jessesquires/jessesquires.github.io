@@ -18,4 +18,4 @@ These are the projects that I am probably most well-known for:
 
 * [IGListKit](https://github.com/Instagram/IGListKit)
 
-*Last updated: 26 Aug 2019*
+*Last updated: 29 Oct 2019*
