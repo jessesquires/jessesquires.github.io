@@ -4,11 +4,15 @@ See my [GitHub Profile](https://github.com/jessesquires) and [Hexed Bits](https:
 
 You can [learn more about me here](https://www.jessesquires.com).
 
-If you appreciate my work, [consider becoming a sponsor](https://www.jessesquires.com/sponsor/).
+## Contact
+
+oss@jessesquires.com
 
 # Notable projects
 
-These are the projects that I am probably most well-known for:
+These are the projects that I am probably most well-known for.
+
+If you appreciate my work, [consider becoming a sponsor](https://www.jessesquires.com/sponsor/).
 
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)
 
@@ -18,4 +22,4 @@ These are the projects that I am probably most well-known for:
 
 * [IGListKit](https://github.com/Instagram/IGListKit)
 
-*Last updated: 29 Oct 2019*
+*Last updated: 23 Feb 2020*
