@@ -4,17 +4,17 @@ See my [GitHub Profile](https://github.com/jessesquires) and [Hexed Bits](https:
 
 You can [learn more about me here](https://www.jessesquires.com).
 
-## Contact
+# Contact
 
 oss@jessesquires.com
 
-# Notable projects
+# Projects
 
-These are the projects that I am probably most well-known for.
+The projects pinned on [my GitHub profile](https://github.com/jessesquires) are the most active.
 
 If you appreciate my work, [consider becoming a sponsor](https://www.jessesquires.com/sponsor/).
 
-* [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)
+**These are the projects that I am probably most well-known for:**
 
 * [Swift Weekly Brief](https://swiftweekly.github.io) newsletter
 
@@ -22,4 +22,6 @@ If you appreciate my work, [consider becoming a sponsor](https://www.jessesquire
 
 * [IGListKit](https://github.com/Instagram/IGListKit)
 
-*Last updated: 23 Feb 2020*
+* [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)
+
+*Last updated: 5 Apr 2020*
