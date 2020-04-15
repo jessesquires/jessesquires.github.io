@@ -12,7 +12,7 @@ oss@jessesquires.com
 
 The projects pinned on [my GitHub profile](https://github.com/jessesquires) are the most active.
 
-If you appreciate my work, [consider becoming a sponsor](https://www.jessesquires.com/sponsor/).
+If you appreciate my work, [consider becoming a sponsor](https://github.com/sponsors/jessesquires).
 
 **These are the projects that I am probably most well-known for:**
 
