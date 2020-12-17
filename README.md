@@ -18,7 +18,7 @@ If you appreciate my work, [consider becoming a sponsor](https://github.com/spon
 
 * [Swift Weekly Brief](https://swiftweekly.github.io) newsletter
 
-* [Swift Unwrapped](https://spec.fm/podcasts/swift-unwrapped) podcast
+* [Swift Unwrapped](https://swiftunwrapped.github.io) podcast
 
 * [IGListKit](https://github.com/Instagram/IGListKit)
 
