@@ -24,4 +24,4 @@ If you appreciate my work, [consider becoming a sponsor](https://github.com/spon
 
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)
 
-*Last updated: 5 Apr 2020*
+*Last updated: 17 Dec 2020*
