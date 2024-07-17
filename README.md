@@ -23,5 +23,3 @@ If you appreciate my work, [consider becoming a sponsor](https://github.com/spon
 * [IGListKit](https://github.com/Instagram/IGListKit)
 
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController)
-
-*Last updated: July 2024*
